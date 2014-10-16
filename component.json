@@ -1,0 +1,10 @@
+{
+  "name": "accordion-to-block",
+  "repo": "indraptama/accordion-to-block",
+  "version": "0.0.1",
+  "dependencies":{
+
+    },
+  "author": "Indra Pratama Putra",
+  "lisence": "MIT"
+}
